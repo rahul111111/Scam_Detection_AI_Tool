@@ -4,3 +4,4 @@ pydantic
 python-dotenv
 streamlit
 tqdm
+altair<5
